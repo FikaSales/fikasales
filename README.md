@@ -1,6 +1,6 @@
 
 # Hi there! 😊 I'm Felipe Sales, universite student SAD (System Analysis and Development).
-Right now I'm a Fullstack coder. 
+I'm currently a programming student.
 ##
 <div align="center">
   <a href="https://github.com/fikasales">
@@ -35,12 +35,6 @@ Basic Skills:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 </div>  
 <br><br>
-
-Some Future languages:
-<div>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/FikaSales/Html-CSS/blob/main/imagens/pegaicon.svg" />
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-</div>
 <br><br>
 
 ##
