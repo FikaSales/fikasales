@@ -1,6 +1,5 @@
 
-# Hi there! 😊 I'm Felipe Sales, universite student SAD (System Analysis and Development).
-I'm currently a programming student.
+# Hi there! 😊 I'm Felipe Sales, graduated in systems analysis and development.
 ##
 <div align="center">
   <a href="https://github.com/fikasales">
